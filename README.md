@@ -64,8 +64,8 @@ The cron job will now execute the script every hour, collecting and appending re
 ## Prerequisites
 Before using this project, ensure the following:
 
-1. You have an AWS account with the necessary permissions to access and retrieve resource information.
-2. You have an EC2 instance running Ubuntu, and you can SSH into it.
-3. AWS CLI is installed on your EC2 instance.
-4. jq is installed on your EC2 instance.
-5. The instance key's permissions are set correctly (chmod 600).
+1. You have an AWS account with the necessary permissions to access and retrieve resource information.<b>
+2. You have an EC2 instance running Ubuntu, and you can SSH into it.<b>
+3. AWS CLI is installed on your EC2 instance.<b>
+4. jq is installed on your EC2 instance.<b>
+5. The instance key's permissions are set correctly (chmod 600).<b>
