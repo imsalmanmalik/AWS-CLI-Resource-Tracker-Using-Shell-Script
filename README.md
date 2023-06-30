@@ -33,16 +33,15 @@ The `jq` command-line tool is used in the shell script to parse and manipulate J
 
 ```bash
 aws ec2 describe-instances | jq '.Reservations[].Instances[].InstanceId' >> "$OUTPUT_FILE"
-This line retrieves the instance IDs from the JSON response of the describe-instances command and appends them to the resourceTracker file.
 ```
-Make sure to install jq on your EC2 instance before running the script. You can install it using package managers like apt-get or yum:
+This line retrieves the instance IDs from the JSON response of the describe-instances command and appends them to the resourceTracker file.
+
+Make sure to install jq on your EC2 instance before running the script. You can install it using package managers like apt-get:
 
 ```bash
 sudo apt-get install jq
 ```
-```bash
-sudo yum install jq
-```
+
 ## Cron Job
 
 To automate the resource tracking process, you can set up a cron job to execute the aws_resource_tracker.sh script at specified intervals. Here's an example of how to set up a cron job to run the script every hour:
@@ -65,8 +64,8 @@ The cron job will now execute the script every hour, collecting and appending re
 ## Prerequisites
 Before using this project, ensure the following:
 
-You have an AWS account with the necessary permissions to access and retrieve resource information.
-You have an EC2 instance running Ubuntu, and you can SSH into it.
-AWS CLI is installed on your EC2 instance.
-jq is installed on your EC2 instance.
-The instance key's permissions are set correctly (chmod 600).
+1. You have an AWS account with the necessary permissions to access and retrieve resource information.
+2. You have an EC2 instance running Ubuntu, and you can SSH into it.
+3. AWS CLI is installed on your EC2 instance.
+4. jq is installed on your EC2 instance.
+5. The instance key's permissions are set correctly (chmod 600).
