@@ -1,0 +1,549 @@
+Print list of s3 buckets
+Print list of EC2 instances
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
+Print list of s3 buckets
+Print list of EC2 instances
+"i-0daf0c34d46ae4076"
+Print list of Lambda functions
+{
+    "Functions": []
+}
+Print list of IAM Users
+Print list of IAM Users
+{
+    "Users": []
+}
